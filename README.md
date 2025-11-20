@@ -67,4 +67,9 @@ The real-time monitoring pipeline is structured around the following key compone
         ```
     *   **Start Streamlit Dashboard:** `streamlit run real-time-ai-monitoring-kafka/streamlit_dashboard.py`
 
+## Visuals
+Here's a visual representation of the pipeline:
+
+![Pipeline Architecture](image.png)
+
 ## GitHub:
